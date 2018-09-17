@@ -1,0 +1,28 @@
+_repo: Kaksi-mestaria-Kansannaytelma-1ssa-naytoksessa_52374
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walakorpi, Urho Wiljo
+    aliases:
+    - Haapanen, Urho
+    - Haapanen, Urho Viljo
+    birthdate: 1886
+    deathdate: 1957
+    gutenberg_agent_id: '46800'
+    url: http://www.gutenberg.org/2009/agents/46800
+    wikipedia: https://fi.wikipedia.org/wiki/U._W._Walakorpi
+description: ''
+gutenberg_issued: '2016-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52374'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Kaksi mestaria: Kansannäytelmä 1:ssä näytöksessä'
+url: http://www.gutenberg.org/ebooks/52374
